@@ -83,10 +83,6 @@ Make sure you have the following installed:
 ## 📦 Installation & Setup
 
 ```bash
-# Clone repository
-git clone https://github.com/yourusername/accessibility-analyzer.git
-cd accessibility-analyzer
-
 # Install dependencies
 npm install
 
