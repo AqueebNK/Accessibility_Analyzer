@@ -45,13 +45,6 @@ Built with modern web technologies and powered by **axe-core** for industry-stan
 
 ---
 
-## 🚀 Live Demo
-- **Frontend**: [Your Frontend URL]  
-- **Backend API**: [Your Render URL]  
-- **API Health Check**: [Your Render URL]/api/health  
-
----
-
 ## 📋 Prerequisites
 Make sure you have the following installed:
 - **Node.js** `v16.0.0+`  
