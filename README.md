@@ -3,6 +3,12 @@
 A comprehensive **web accessibility analyzer** that helps developers identify and fix accessibility issues on websites and HTML content.  
 Built with modern web technologies and powered by **axe-core** for industry-standard accessibility testing.
 
+<img width="1813" height="962" alt="image" src="https://github.com/user-attachments/assets/b08fc129-e751-4b71-8408-82063ec1257a" />
+<img width="1495" height="922" alt="image" src="https://github.com/user-attachments/assets/1d8dbcb3-023a-47be-9308-e81570125c22" />
+<img width="1459" height="943" alt="image" src="https://github.com/user-attachments/assets/43c63dbd-1d71-4f6f-ab8f-cd1baabf4ab5" />
+
+
+
 ---
 
 ## ✨ Features
